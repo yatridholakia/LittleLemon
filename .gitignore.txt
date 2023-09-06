@@ -1,0 +1,29 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+pyvenv.cfg
+
+# Django database file (SQLite)
+db.sqlite3
+
+# Environment-specific settings
+*.env
+
+# IDE-specific files and directories
+.vscode/
+
+# Compiled Python files
+*.pyo
+*.pyd
+__pycache__/
+$py.class
+
+# Logs and databases 
+*.log
+*.sql
+
+# Windows Thumbs.db file
+Thumbs.db
