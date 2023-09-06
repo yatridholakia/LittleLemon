@@ -27,3 +27,7 @@ $py.class
 
 # Windows Thumbs.db file
 Thumbs.db
+
+#Custom Folders
+Lib/
+Scripts/
