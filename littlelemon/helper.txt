@@ -1,4 +1,0 @@
-superuser creds:
-
-username: lemonadmin 
-password: lemonadmin
